@@ -39,7 +39,6 @@ This is a **portfolio‑ready project** demonstrating file handling, STL usage, 
 📁 Recipe-Manager-CLI/
 │
 ├── recipeManager.cpp   # Main source file
-├── *.txt               # Saved recipe files (auto-generated)
 └── README.md           # Project documentation
 ```
 
